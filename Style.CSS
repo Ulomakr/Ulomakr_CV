@@ -1,0 +1,39 @@
+
+ p {
+ 	font-style: italic;
+ 	font-size: 170%;
+ 	color: green;
+ }
+ h1, h2 {
+ 	color: maroon;
+ 	font-size: 300%;
+ }
+
+ h3 {
+ 	font-size: 200%;
+ }
+
+ ul {
+ 	font-size: 170%;
+ }
+
+ form {
+ 	font-size: 150%
+ }
+
+
+ input[type=text] {
+  width: 30%;
+  box-sizing: border-box;
+}
+
+input[type=button] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 4px;
+}
+
+
+
+
